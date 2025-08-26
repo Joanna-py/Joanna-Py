@@ -12,9 +12,7 @@
 
 ## 🌐 Redes Sociais  
 <p align="center">
-  <a href="https://linkedin.com/in/SEULINKEDIN"><img src="www.linkedin.com/in/
-joanna-santos-184542366
-"/></a>
+  <a href="https://linkedin.com/in/SEULINKEDIN"><img src="www.linkedin.com/in/joanna-santos-184542366"/></a>
   <a href="mailto:joannasantossoouza4@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
