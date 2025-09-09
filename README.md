@@ -12,10 +12,12 @@
 
 ## 🌐 Redes Sociais  
 <p align="center">
-  <a href="https://linkedin.com/in/SEULINKEDIN"><img src="https://www.linkedin.com/in/
-joanna-santos-184542366
-"/></a>
-  <a href="mailto:joannasantossoouza4@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joanna-santos-184542366" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:joannasantossoouza4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -35,7 +37,7 @@ joanna-santos-184542366
 ![VS Code](https://img.shields.io/badge/VS%20Code-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)
 
---
+---
 
 <p align="center">
 ✨ Criado com ❤️ por Joanna Santos ✨  
